@@ -1,0 +1,26 @@
+***********************************************************************************
+*                                                                                 *
+*  PPPPPPPPPPPP    L               U           U   M           M         A        *
+*  P           P   L               U           U   M          MM        A A       *
+*  P           P   L               U           U   M M       M M       A   A      *
+*  P           P   L               U           U   M  M     M  M      A     A     *
+*  P           P   L               U           U   M   M   M   M     A       A    *
+*  PPPPPPPPPPPP    L               U           U   M    M M    M    A         A   *
+*  P               L               U           U   M     M     M   AAAAAAAAAAAAA  *
+*  P               L               U           U   M           M   A           A  *
+*  P               L               U           U   M           M   A           A  *
+*  P               LLLLLLLLLLLLL    UUUUUUUUUUU    M           M   A           A  *
+*                                                                                 *
+*            [Plu]gin-based [M]icrobiome [A]nalysis (formerly MiAMi)              *
+*    (C) 2016 Bioinformatics Research Group, Florida International University     *
+*    Under MIT License From Open Source Initiative (OSI), All Rights Reserved.    *
+*                                                                                 *
+*    Any professionally published work using PluMA should cite the following:     *
+*    T. Cickovski, V. Aguiar-Pulido, W. Huang, S. Mahmoud and G. Narasimhan.      *
+*         Lightweight Microbiome Analysis Pipelines.  In Proceedings of           *
+* 4th International Work-Conference on Bioinformatics and Biomedical Engineering  *
+*                   (IWBBIO16), Granada, Spain, April 2016.                       *
+*                                                                                 *
+***********************************************************************************
+[PluMA] Running Plugin: ANOVA
+F-value statistic =  53.70232558139542 , p-value =  9.988208503789122e-05

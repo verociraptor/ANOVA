@@ -1,0 +1,2 @@
+Prefix plugins/ANOVA/example/
+Plugin ANOVA inputfile example.csv outputfile none
