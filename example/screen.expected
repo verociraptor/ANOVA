@@ -1,7 +1,7 @@
 ***********************************************************************************
 *                                                                                 *
 *  PPPPPPPPPPPP    L               U           U   M           M         A        *
-*  P           P   L               U           U   M          MM        A A       *
+*  P           P   L               U           U   MM         MM        A A       *
 *  P           P   L               U           U   M M       M M       A   A      *
 *  P           P   L               U           U   M  M     M  M      A     A     *
 *  P           P   L               U           U   M   M   M   M     A       A    *
@@ -12,14 +12,14 @@
 *  P               LLLLLLLLLLLLL    UUUUUUUUUUU    M           M   A           A  *
 *                                                                                 *
 *            [Plu]gin-based [M]icrobiome [A]nalysis (formerly MiAMi)              *
-*    (C) 2016 Bioinformatics Research Group, Florida International University     *
+* (C) 2016, 2018 Bioinformatics Research Group, Florida International University  *
 *    Under MIT License From Open Source Initiative (OSI), All Rights Reserved.    *
 *                                                                                 *
 *    Any professionally published work using PluMA should cite the following:     *
-*    T. Cickovski, V. Aguiar-Pulido, W. Huang, S. Mahmoud and G. Narasimhan.      *
-*         Lightweight Microbiome Analysis Pipelines.  In Proceedings of           *
-* 4th International Work-Conference on Bioinformatics and Biomedical Engineering  *
-*                   (IWBBIO16), Granada, Spain, April 2016.                       *
+*                        T. Cickovski and G. Narasimhan.                          *
+*                Constructing Lightweight and Flexible Pipelines                  *
+*                 Using Plugin-Based Microbiome Analysis (PluMA)                  *
+*                     Bioinformatics 34(17):2881-2888, 2018                       *
 *                                                                                 *
 ***********************************************************************************
 [PluMA] Running Plugin: ANOVA
